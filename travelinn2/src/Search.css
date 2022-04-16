@@ -1,0 +1,32 @@
+.search {
+    position: absolute;
+    top: 35px;
+    left: 25%;
+    width: 100vw;
+}
+
+.search>h2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 559px;
+    padding: 10px;
+    background-color: rgb(188, 38, 38);
+    left: 0;
+    top: 380px;
+}
+
+.search>button {
+    position: absolute;
+    left: 0;
+    top: 480px;
+    text-transform: inherit !important;
+    background-color: #ff7779;
+    color: white;
+    width: 579px;
+}
+
+.search>button:hover {
+    background-color: white;
+    color: #ff7779;
+}

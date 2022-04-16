@@ -1,0 +1,6 @@
+.login {
+    background-image: url('/images/banner_image1.jpg');
+    height: 90vh;
+    position:relative;
+    fill:contain;
+}
